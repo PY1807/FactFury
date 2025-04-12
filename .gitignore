@@ -1,0 +1,7 @@
+# Large files
+FactFury.mp4
+Backend/Fake_News_Detection_Backend/analysepost/FakeNewsDetector/SemanticAndStructuredAnalyzer/Data/Fake.csv
+Backend/Fake_News_Detection_Backend/analysepost/FakeNewsDetector/SemanticAndStructuredAnalyzer/Data/True.csv
+
+# Secrets (optional if you had config/secrets files)
+*.env
