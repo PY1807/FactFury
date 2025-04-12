@@ -1,6 +1,8 @@
 # FactFury - Turning Headlines into Verified Truths
 
-![FactFury Logo](https://drive.google.com/file/d/1IOudhrpnu4ADM7oKMXWwNpI-itQbou0f/view?usp=drive_link)
+<p align="center">
+  <img src="https://drive.google.com/file/d/1IOudhrpnu4ADM7oKMXWwNpI-itQbou0f/view?usp=drive_link" alt="FactFury Logo" width="300"/>
+</p>
 
 ## 🛡️ Fighting Misinformation with AI
 
