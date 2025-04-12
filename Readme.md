@@ -1,6 +1,6 @@
 # FactFury - Turning Headlines into Verified Truths
 
-![FactFury Logo](https://raw.githubusercontent.com/zaid1303/FactFury/main/assets/logo.png)
+![FactFury Logo](https://drive.google.com/file/d/1IOudhrpnu4ADM7oKMXWwNpI-itQbou0f/view?usp=drive_link)
 
 ## 🛡️ Fighting Misinformation with AI
 
@@ -41,11 +41,11 @@ FactFury is an AI-powered fact-checking platform that:
 ## 🧰 Technology Stack
 
 - **Backend**: Python, Django, NLTK, OpenAI
-- **Frontend**: HTML5, TypeScript
+- **Frontend**: React, TypeScript
 - **ML/AI**: TensorFlow, Keras, Hugging Face, Mistral AI
 - **Database**: MongoDB
-- **Cloud**: AWS
-- **Other Tools**: Scikit-learn, OpenCV, LangChain, Selenium
+- **Cloud**: AWS(S3)
+- **Other Tools**: Scikit-learn, LangChain, Selenium
 
 ## 📋 Prerequisites
 
