@@ -1,4 +1,5 @@
-# FactFury - Turning Headlines into Verified Truths
+
+# FactFury(Team Project) - Turning Headlines into Verified Truths
 
 <!-- ![FactFury Logo](https://drive.google.com/file/d/1IOudhrpnu4ADM7oKMXWwNpI-itQbou0f/view?usp=drive_link) -->
 
